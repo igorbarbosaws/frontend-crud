@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/funcionarios";
+const API_URL = "https://backend-crud-jgzt.onrender.com/funcionarios";
 
 const formulario = document.querySelector("#form-funcionario");
 const campoId = document.querySelector("#funcionario-id");
